@@ -1,0 +1,18 @@
+C:\Users\Jhonatha\Desktop\ASAS\ASAS.exe.manifest
+C:\Users\Jhonatha\Desktop\ASAS\ASAS.application
+C:\Users\Jhonatha\Desktop\ASAS\ASAS.exe
+C:\Users\Jhonatha\Desktop\ASAS\ASAS.pdb
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.AboutBoxASAS.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormHelp.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormData.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormGraph.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormMain.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultLT.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultPT.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultTE.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.Resources.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.vbproj.GenerateResource.Cache
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.exe.manifest
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.application
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.exe
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.pdb

@@ -1,0 +1,62 @@
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SpectralSimulator.exe
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SpectralSimulator.pdb
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SpectralSimulator.xml
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.Resources.resources
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.exe
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.xml
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.pdb
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.FormMain.resources
+C:\Users\Alessandra\Desktop\SPECTRAL SIMULATOR\SpectralSimulator.exe
+C:\Users\Alessandra\Desktop\SPECTRAL SIMULATOR\SpectralSimulator.pdb
+C:\Users\Alessandra\Desktop\SPECTRAL SIMULATOR\SpectralSimulator.xml
+C:\Users\Alessandra\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.FormResultPT.resources
+C:\Users\Jhonatha\Desktop\SPECTRAL SIMULATOR\SpectralSimulator.exe
+C:\Users\Jhonatha\Desktop\SPECTRAL SIMULATOR\SpectralSimulator.pdb
+C:\Users\Jhonatha\Desktop\SPECTRAL SIMULATOR\SpectralSimulator.xml
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jhonatha\Desktop\SIMULATOR SPECTRA\Analysis and Simulation of Atomic Spectra.exe.manifest
+C:\Users\Jhonatha\Desktop\SIMULATOR SPECTRA\Analysis and Simulation of Atomic Spectra.application
+C:\Users\Jhonatha\Desktop\SIMULATOR SPECTRA\Analysis and Simulation of Atomic Spectra.exe
+C:\Users\Jhonatha\Desktop\SIMULATOR SPECTRA\Analysis and Simulation of Atomic Spectra.pdb
+C:\Users\Jhonatha\Desktop\SIMULATOR SPECTRA\Analysis and Simulation of Atomic Spectra.xml
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormData.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormGraph.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormMain.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultLT.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultPT.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultTE.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.Resources.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.exe.manifest
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.application
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.exe
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.xml
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.pdb
+C:\Users\Jhonatha\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.exe.manifest
+C:\Users\Jhonatha\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.application
+C:\Users\Jhonatha\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.exe
+C:\Users\Jhonatha\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.pdb
+C:\Users\Jhonatha\Documents\Projetos IEAv\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormHelp.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.exe
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.pdb
+C:\Users\Jhonatha\Documents\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.exe.manifest
+C:\Users\Jhonatha\Documents\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.application
+C:\Users\Jhonatha\Documents\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.exe
+C:\Users\Jhonatha\Documents\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.pdb
+C:\Users\Jhonatha\Documents\Desktop\ASAS\Analysis and Simulation of Atomic Spectra.xml
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormHelp.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormData.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormGraph.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormMain.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultLT.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultPT.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.FormResultTE.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.Resources.resources
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.exe.manifest
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Analysis and Simulation of Atomic Spectra.application
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SpectralSimulator.vbproj.GenerateResource.Cache
+C:\Users\Jhonatha\Documents\Projetos IEAv\Projetos de IC\Programa Simulador de Espectro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ASAS.AboutBoxASAS.resources
