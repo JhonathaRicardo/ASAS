@@ -1,0 +1,3 @@
+How reference this software:
+
+Santos, J. R.; Sbampato, M. E.; Barreta, L. F.; Destro, M. G. ASAS Software - Analysis and Simulation of Atomic Spestra, Version Beta 0.0.1.0, IEAv/DCTA, 2014. Wainting Register Number.
